@@ -2,3 +2,19 @@
     font-family: Roboto-Mono-Bold;
     src: url('RobotoMono-Bold.ttf');
 }
+
+li {
+    margin: 1%;
+}
+
+.MinimalInput {
+    background:none; 
+    color:white; 
+    text-align: end; 
+    border-top:none; 
+    border-left:none; 
+    border-right:none; 
+    border-bottom: 2px solid #3498db;
+    text-align: center;
+}
+
